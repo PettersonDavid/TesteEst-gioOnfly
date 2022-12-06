@@ -1,0 +1,44 @@
+[
+	{
+		"Imagem": "./Images/Garry.png",
+        "Nome": "Garry",
+        "Genero": "Masculino",
+        "Especie": "Caramujo",
+        "Profissao": "Bicho de Estimação"
+    },
+	{
+		"Imagem": "./Images/Sandy.png",
+        "Nome": "Sandy",
+        "Genero": "Feminino",
+        "Especie": "Esquilo",
+        "Profissao": "Desempregado"
+    },
+	{	
+		"Imagem": "./Images/SeuSiriguejo.png",
+        "Nome": "Seu Sirigueijo",
+        "Genero": "Masculino",
+        "Especie": "Caranguejo",
+        "Profissao": "Chefe de Restaurante"
+    },
+	{	
+		"Imagem": "./Images/LulaMolusco.png",
+        "Nome": "Lula Molusco",
+        "Genero": "Masculino",
+        "Especie": "Polvo",
+        "Profissao": "Atendente"
+    },
+    {	
+		"Imagem": "./Images/PatrickEstrela.png",
+		"Nome": "Patrick",
+		"Genero": "Masculino",
+		"Especie": "Estrela-do-mar",
+		"Profissao": "Desempregado"
+    },
+    {
+		"Imagem": "./Images/BobEsponja.png",
+		"Nome": "Bob Esponja",
+		"Genero": "Masculino",
+		"Especie": "Esponja-do-mar",
+		"Profissao": "Cozinheiro"
+    }  
+]

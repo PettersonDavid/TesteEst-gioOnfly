@@ -1,0 +1,89 @@
+html, body, #home, #personagens{
+	height: 100%;
+}
+
+body{
+	background: #F8F8FF;				
+}
+
+/*Sobreescrevendo os estilos do bootstrap --> */
+.navbar-black .navbar-nav .nav-link{
+    color: #F8F8FF;
+}
+.navbar-black .navbar-nav .nav-link:hover{
+    color: black;
+}
+
+.navbar-black .navbar-brand {
+    color: #F8F8FF;
+}
+.col-md-4 {
+    margin-bottom: 45px;
+	display: contents;
+}
+
+/*Sobreescrevendo os estilos do bootstrap <-- */
+
+nav{
+	background: #add8e6 ;
+	font-weight: 900;
+	font-style: italic;
+}
+
+/* Tipografia */
+
+h1{
+	color: #add8e6 ;
+	font-size: 4em;
+	font-weight: lighter;
+	font-style: italic;
+	margin-bottom: 60px;
+	margin-top: 40px;
+	text-align: center;
+}
+
+h3{
+	color: black;
+	font-style: italic;
+	font-weight: bold;
+}
+
+a:hover{
+	transform: scale(1.2);
+}
+
+/* Imagens */
+
+img{
+	margin-bottom: 0px;
+	border-radius: 50%;
+	align-items: center;
+}
+
+img:hover{
+	transform: scale(1.1);
+}
+
+#imagens{
+	height: 60px;
+	width: 60px;	
+	margin-bottom: 20px;
+}
+
+/* Personagens*/
+
+#main{ 
+	justify-content: space-between;
+	margin-bottom: 50px;
+}
+
+.personagem{
+	color: black;
+	width: 35%;
+}
+
+.personagem_nome{
+	padding: 0.5rem 1rem 1rem 0rem;
+	letter-spacing: 0.5px;
+	width: 100%;
+}
